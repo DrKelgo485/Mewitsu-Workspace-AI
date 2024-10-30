@@ -1,0 +1,68 @@
+{
+  "nav": {
+    "assistant": "Assistant",
+    "adblock": "Ad Block",
+    "schedule": "Schedule",
+    "filetools": "File Tools"
+  },
+  "premium": {
+    "toggle": "Toggle Premium User",
+    "label": "Premium User"
+  },
+  "assistant": {
+    "title": "Mew Assistant ({{type}})",
+    "placeholder": "Ask your {{type}} Mew Assistant for help...",
+    "inputLabel": "Enter your question or request",
+    "sendButton": "Send request to AI assistant",
+    "help": "Help",
+    "thinking": "Thinking...",
+    "upgrade": "Upgrade to Mew Assistant Premium for advanced features!",
+    "workStatusToggle": "Toggle work status",
+    "resumeWork": "Resume Work",
+    "finishWork": "Finish Work",
+    "premiumRequired": "Subscribe to Mew Assistant Premium now",
+    "error": "Mew Assistant says: {{message}}"
+  },
+  "adblock": {
+    "title": "Ad Block",
+    "description": "Ad blocking is currently active. Ads and pop-ups are being blocked.",
+    "placeholder": "Enter website to block",
+    "inputLabel": "Website to block",
+    "addButton": "Add website to block list",
+    "add": "Add",
+    "removeButton": "Remove {{website}} from block list",
+    "remove": "Remove"
+  },
+  "schedule": {
+    "title": "Schedule Maker",
+    "generate": "Generate AI Schedule",
+    "generateButton": "Generate an AI-powered schedule",
+    "generated": "AI Schedule generated!",
+    "currentSchedule": "Current Schedule"
+  },
+  "filetools": {
+    "title": "File Tools",
+    "formatPDF": "Format PDF",
+    "convertImage": "Convert Image",
+    "compressFile": "Compress File",
+    "encryptFile": "Encrypt File",
+    "mergeFiles": "Merge Files",
+    "upgrade": "Upgrade to Mew Assistant Premium for advanced file tools!",
+    "formatPDFButton": "Format a PDF file",
+    "convertImageButton": "Convert an image file",
+    "compressFileButton": "Compress a file",
+    "encryptFileButton": "Encrypt a file",
+    "mergeFilesButton": "Merge multiple files",
+    "pdfFormatted": "PDF formatted!",
+    "imageConverted": "Image converted!",
+    "fileCompressed": "File compressed!",
+    "fileEncrypted": "File encrypted!",
+    "filesMerged": "Files merged!",
+    "filesOrganized": "Files organized!"
+  },
+  "focusMode": {
+    "toggle": "Focus mode {{enabled}}",
+    "enabled": "enabled",
+    "disabled": "disabled"
+  }
+}

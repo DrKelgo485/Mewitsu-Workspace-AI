@@ -1,0 +1,34 @@
+{
+  "name": "mewitsu-extension",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "webpack --mode production",
+    "dev": "webpack --mode development --watch",
+    "test": "jest",
+    "lint": "eslint . --ext .ts,.tsx"
+  },
+  "devDependencies": {
+    "@types/chrome": "^0.0.193",
+    "@types/jest": "^27.0.3",
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "@typescript-eslint/eslint-plugin": "^5.8.0",
+    "@typescript-eslint/parser": "^5.8.0",
+    "copy-webpack-plugin": "^9.0.1",
+    "dotenv": "^10.0.0",
+    "eslint": "^8.5.0",
+    "jest": "^27.0.6",
+    "puppeteer": "^10.2.0",
+    "ts-jest": "^27.0.7",
+    "ts-loader": "^9.2.6",
+    "typescript": "^4.5.4",
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1"
+  },
+  "dependencies": {
+    "i18next": "^21.6.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-i18next": "^11.15.0"
+  }
+}
