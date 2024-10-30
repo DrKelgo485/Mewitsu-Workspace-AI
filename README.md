@@ -55,4 +55,4 @@ For development with hot-reloading:
 
 ## Testing
 
-Run the test suite with:
+Run the test suite with: WebStorm
